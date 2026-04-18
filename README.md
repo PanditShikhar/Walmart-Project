@@ -1,3 +1,4 @@
+<img width="1598" height="753" alt="Image" src="https://github.com/user-attachments/assets/64b4132f-71ac-4615-8c74-cf803707617a" />
 # Walmart-Project
 The project is based on  real time data of sales in Walmart stores. In this project I have connected MYSQL to VS Code and used both Python and SQL Queries to solve business problems. 
 
